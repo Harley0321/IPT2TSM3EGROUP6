@@ -2,7 +2,7 @@ package StudentInfo;
 
 public class function {
 
-Private string name7,addres7;course7;
+Private string name7,address7;course7;
 Private int age7;
 
 public  String NameHarley() {
